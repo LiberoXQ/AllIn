@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">AllInOne</string>
+    <string name="logout_renren">点击退出人人</string>
+    <string name="login_renren">点击登录人人</string>
+    <string name="login_renren_success">人人授权成功</string>
+    <string name="logout_renren_success">退出人人成功</string>
+    <string name="login_tengxun_success">腾讯微博授权成功</string>
+    <string name="logout_tengxun_success">退出腾讯成功</string>
+    <string name="login_sina_success">新浪授权成功</string>
+    <string name="logout_sina_success">退出新浪成功</string>
+    <string name="renren">人人</string>
+    <string name="tengxun">腾讯</string>
+    <string name="sina">新浪</string>
+    <string name="oauty">授权</string>
+    <string name="GetInfoSuccess">获取成功</string>
+    <string name="GetInfoFailed">获取失败</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松开后刷新</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">加载中\u2026</string>
+    <string name="pull_to_refresh_refreshing_label">刷新\u2026</string>
+    <string name="pull_to_refresh_footer_release_label">松开后加载</string>
+    <string name="renren_auth_success">人人授权成功</string>
+    <string name="renren_auth_failed">人人授权失败</string>
+    <string name="cancel_auth_success">取消授权成功</string>
+    <string name="renren_need_auth">点击授权人人</string>
+    <string name="renren_cancel_auth">取消人人授权</string>
+    <string name="tengxun_need_auth">点击授权腾讯微博</string>
+    <string name="tengxun_cancel_auth">取消腾讯微博授权</string>
+    <string name="sina_need_auth">点击授权新浪微博</string>
+    <string name="sina_cancel_auth">取消新浪微博授权</string>
+    
+</resources>

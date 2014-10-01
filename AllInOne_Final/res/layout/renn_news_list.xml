@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button
+	    android:id="@+id/BtnNeedRenrenOauty"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/renren_need_auth"
+	    android:layout_marginTop="5dp"
+	    android:visibility="visible"
+    	/>
+    <com.myview.MyLinearLayout 
+	    android:id="@+id/main_pull_refresh_view"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical" > 
+	    <ListView
+	        android:id="@+id/LvwRenrenNews"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"       
+	        >
+	    </ListView>
+	</com.myview.MyLinearLayout>
+	
+</LinearLayout>
